@@ -1,0 +1,36 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "vscode.git",
+    "editor.formatOnPaste": true,
+    "files.autoGuessEncoding": true,
+    "files.autoSaveWhenNoErrors": true,
+    "files.saveConflictResolution": "overwriteFileOnDisk",
+    "workbench.view.alwaysShowHeaderActions": false,
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "agentSessionsWelcomePage": true
+    },
+    "zenMode.fullScreen": false,
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideLineNumbers": false,
+    "workbench.browser.agentHostChatToolsEnabled": true,
+    "chat.agent.sandbox.autoApproveUnsandboxedCommands": true,
+    "chat.agent.sandbox.enabled": "off",
+    "chat.agent.sandbox.allowUnsandboxedCommands": true,
+    "chat.editing.explainChanges.enabled": true,
+    "chat.editMode.hidden": false,
+    "chat.unifiedAgentsBar.enabled": true,
+    "chat.viewProgressBadge.enabled": true,
+    "chat.agentSessionProjection.enabled": true,
+    "chat.planAgent.defaultModel": "GPT-5.4 (copilot)",
+    "chat.includeReferencedInstructions": true,
+    "chat.tools.terminal.outputLocation": "terminal",
+    "chat.mcp.discovery.enabled": {
+        "claude-desktop": true
+    },
+    "chat.mcp.assisted.nuget.enabled": true,
+    "chat.mcp.autostart": "onlyNew",
+    "chat.useNestedAgentsMdFiles": true,
+    "inlineChat.defaultModel": "Auto (copilot)"
+}
